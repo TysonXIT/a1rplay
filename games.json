@@ -89,4 +89,5 @@
     ["Pokemon Ruby", "Play Pokemon Ruby!", "./assets/pok-ruby.jpg", "/game/pokemon/ruby/index.html"],
     ["Pokemon Sapphire", "Play Pokemon Sapphire!", "./assets/pok-sapphire.jpg", "/game/pokemon/sapphire/index.html"],
     ["Pokemon Ultraviolent", "Play Pokemon Ultraviolent!", "./assets/pok-ultraviolent.jpg", "/game/pokemon/ultraviolent/index.html"]
+     ["Alien Hominid", "Play Alien Hominid!", "./assets/alien.png", "/game/alien-hominid/index.html"]
 ]
