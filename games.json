@@ -91,5 +91,7 @@
     ["Pokemon Ultraviolent", "Play Pokemon Ultraviolent!", "./assets/pok-ultraviolent.jpg", "/game/pokemon/ultraviolent/index.html"],
     ["Alien Hominid", "Play Alien Hominid!", "./assets/alien.png", "/game/alien-hominid/index.html"],
     ["Angry Birds", "Shoot bad piggies!", "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png", "/game/angry-birds/index.html"],
-    ["Bad Piggies", "Build good endurable cars!", "https://upload.wikimedia.org/wikipedia/en/5/51/Bad_Piggies.png", "/game/bad-piggies/index.html"]
+    ["Bad Piggies", "Build good endurable cars!", "https://upload.wikimedia.org/wikipedia/en/5/51/Bad_Piggies.png", "/game/bad-piggies/index.html"],
+    ["Baldi's Basics", "Escape baldi, try not to get an ass whooping", "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_com.BasicallyGames.BaldisBasicsClassic.jpg", "/game/baldi/index.html"],
+    ["Baldi's Basics Camping", "Collect sticks, don't let the fire run out if you don't want another ass whooping.", "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/565bb868-0b50-4e6f-9805-5cf29eccbc42/dckw1lf-7c220539-919d-419a-840e-a52c072490c1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2NWJiODY4LTBiNTAtNGU2Zi05ODA1LTVjZjI5ZWNjYmM0MlwvZGNrdzFsZi03YzIyMDUzOS05MTlkLTQxOWEtODQwZS1hNTJjMDcyNDkwYzEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Fx-9f9SsdBL2_GG880Rhiad0mn2Ohhvi2FLK5DqgANg", "/game/baldi-camping/index.html"]
 ]
