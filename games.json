@@ -90,5 +90,6 @@
     ["Pokemon Sapphire", "Play Pokemon Sapphire!", "./assets/pok-sapphire.jpg", "/game/pokemon/sapphire/index.html"],
     ["Pokemon Ultraviolent", "Play Pokemon Ultraviolent!", "./assets/pok-ultraviolent.jpg", "/game/pokemon/ultraviolent/index.html"],
     ["Alien Hominid", "Play Alien Hominid!", "./assets/alien.png", "/game/alien-hominid/index.html"],
-    ["Angry Birds", "Shoot bad piggies!", "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png", "/game/angry-birds/index.html"]
+    ["Angry Birds", "Shoot bad piggies!", "https://upload.wikimedia.org/wikipedia/en/2/2d/Angry_Birds_promo_art.png", "/game/angry-birds/index.html"],
+    ["Bad Piggies", "Build good endurable cars!", "https://upload.wikimedia.org/wikipedia/en/5/51/Bad_Piggies.png", "/game/bad-piggies/index.html"]
 ]
